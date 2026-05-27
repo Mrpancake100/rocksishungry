@@ -2,7 +2,7 @@ const siteConfig = {
   name: "Rocky",
   tagline: "digital den / links / updates",
   logoText: "Rocky",
-  backgroundImage: "assets/background-placeholder.png",
+  backgroundImage: "rocky.png",
   profileImage: "",
   accent: "#ffd166",
   socials: [
