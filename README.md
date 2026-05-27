@@ -1,3 +1,5 @@
+# Editable Link Page
+
 This is a standalone personal link page inspired by the structure of `warzy.dog`: a full-screen background, a large identity mark, social icons, contact handles, and a credits panel.
 
 ## Edit Your Info
