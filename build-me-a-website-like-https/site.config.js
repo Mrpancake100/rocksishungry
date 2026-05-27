@@ -1,7 +1,7 @@
 const siteConfig = {
-  name: "your name",
+  name: "Rocky",
   tagline: "digital den / links / updates",
-  logoText: "YOURNAME",
+  logoText: "Rocky",
   backgroundImage: "assets/background-placeholder.png",
   profileImage: "",
   accent: "#ffd166",
@@ -9,22 +9,22 @@ const siteConfig = {
     {
       label: "Instagram",
       icon: "instagram",
-      url: "https://instagram.com/yourname"
+      url: "https://instagram.com/mrrockythedog"
     },
     {
       label: "X",
       icon: "x",
-      url: "https://x.com/yourname"
+      url: "https://x.com/SmackerTheDog"
     },
     {
       label: "TikTok",
       icon: "tiktok",
-      url: "https://tiktok.com/@yourname"
+      url: "https://tiktok.com/@smackerthedog"
     },
     {
       label: "YouTube",
       icon: "youtube",
-      url: "https://youtube.com/@yourname"
+      url: "https://youtube.com/@rockythedog360"
     }
   ],
   contacts: [
