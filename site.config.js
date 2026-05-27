@@ -14,33 +14,33 @@ const siteConfig = {
     {
       label: "X",
       icon: "x",
-      url: "https://x.com/yourname"
+      url: "https://x.com/SmackerTheDog"
     },
     {
       label: "TikTok",
       icon: "tiktok",
-      url: "https://tiktok.com/@yourname"
+      url: "https://tiktok.com/@SmackerTheDog"
     },
     {
       label: "YouTube",
       icon: "youtube",
-      url: "https://youtube.com/@yourname"
+      url: "https://youtube.com/@rockythedog360"
     }
   ],
   contacts: [
     {
       label: "Discord",
       icon: "discord",
-      value: "yourname"
+      value: "rockythedog"
     },
     {
       label: "Telegram",
       icon: "telegram",
-      value: "@yourname"
+      value: "@rockythedog100"
     }
   ],
   credits: [
-    "Background: replace with your own image in assets/",
+    "Background: Website made by RockyTheDog",
     "Site: customized link page"
   ]
 };
