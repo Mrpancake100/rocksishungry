@@ -23,20 +23,20 @@ const siteConfig = {
     },
     {
       label: "YouTube",
-      icon: "youtube",
+      icon: "Youtube",
       url: "https://youtube.com/@rockythedog360"
     }
   ],
   contacts: [
     {
       label: "Discord",
-      icon: "discord",
-      value: "yourname"
+      icon: "Discord",
+      value: "rockythedog"
     },
     {
       label: "Telegram",
-      icon: "telegram",
-      value: "@yourname"
+      icon: "Telegram",
+      value: "@rockythedog100"
     }
   ],
   credits: [
