@@ -30,7 +30,7 @@ const siteConfig = {
 contacts: [
   {
     label: "Discord",
-    image: "assets/discord-logo.png",
+  image: "assets/discord-logo.png",
     value: "rockythedog"
   },
   {
