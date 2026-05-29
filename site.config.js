@@ -32,10 +32,9 @@ contacts: [
   label: "Discord",
   icon: "discord",
   value: "rockythedog"
-}
-  {
+{
   label: "Telegram",
-  icon: "telegram",
+  image: "assets/telegram-white.svg",
   value: "@rockythedog100"
 }
 ],
