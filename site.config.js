@@ -28,10 +28,11 @@ const siteConfig = {
     }
   ],
 contacts: [
-  {
+ {
   label: "Discord",
   icon: "discord",
   value: "rockythedog"
+},
 {
   label: "Telegram",
   image: "assets/telegram-white.svg",
