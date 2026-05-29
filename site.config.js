@@ -1,6 +1,6 @@
 const siteConfig = {
   name: "Rocky",
-  tagline: "The site to fund this dog hunger",
+  tagline: "This site help funds this starving dog hunger",
   logoText: "Rocky",
   backgroundImage: "assets/background-placeholder.png",
   profileImage: "",
