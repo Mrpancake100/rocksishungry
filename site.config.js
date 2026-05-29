@@ -29,15 +29,15 @@ const siteConfig = {
   ],
 contacts: [
   {
-    label: "Discord",
-  image: "assets/discord-logo.png",
-    value: "rockythedog"
-  },
+  label: "Discord",
+  icon: "discord",
+  value: "rockythedog"
+}
   {
-    label: "Telegram",
-    image: "assets/telegram.png",
-    value: "@rockythedog100"
-  }
+  label: "Telegram",
+  icon: "telegram",
+  value: "@rockythedog100"
+}
 ],
   credits: [
     "Website made by RockyTheDog",
