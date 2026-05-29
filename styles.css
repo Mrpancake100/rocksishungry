@@ -263,7 +263,7 @@ svg {
   height: 23px;
   object-fit: contain;
   flex: 0 0 auto;
-  filter: invert(1);
+ filter: brightness(0) invert(1);
 }
 
 .handle {
