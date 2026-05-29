@@ -1,6 +1,6 @@
 const siteConfig = {
   name: "Rocky",
-  tagline: "“This site keeps this Aussie tummy full”",
+  tagline: "This site keeps this Aussie tummy full",
   logoText: "Rocky",
   backgroundImage: "assets/background-placeholder.png",
   profileImage: "",
