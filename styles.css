@@ -302,12 +302,21 @@ svg {
   place-items: center;
   padding: 90px 18px 70px;
   margin-top: 100vh;
-}
 
-.feedback-form {
-  width: min(92vw, 760px);
-  height: 720px;
+  .feedback-form {
+  width: min(94vw, 760px);
+  height: min(82vh, 760px);
+  max-height: 760px;
   border: 0;
   border-radius: 14px;
   background: white;
+}
+  .feedback-link {
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.feedback-link:hover {
+  text-decoration: underline;
 }
