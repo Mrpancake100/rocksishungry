@@ -301,7 +301,7 @@ svg {
   display: grid;
   place-items: center;
   padding: 90px 18px 70px;
-  margin-top: 100vh;
+  margin-top: 120vh;
 
   .feedback-form {
   width: min(94vw, 760px);
