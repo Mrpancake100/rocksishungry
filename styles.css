@@ -30,11 +30,13 @@ a {
 
 .stage {
   position: relative;
-  min-height: 100svh;
+  min-height: 200svh;
+  height: auto;
   display: grid;
   place-items: center;
   padding: 48px 20px;
   isolation: isolate;
+  overflow-y: visible;
 }
 
 .background {
