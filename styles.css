@@ -305,3 +305,8 @@ svg {
   color: #fff !important;
   text-decoration: underline;
 }
+.credits-panel .credits-link:hover,
+.credits-panel .credits-link:focus-visible {
+  color: #fff !important;
+  text-decoration: underline;
+}
