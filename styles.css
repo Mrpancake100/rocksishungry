@@ -294,46 +294,14 @@ svg {
   background: transparent !important;
   box-shadow: none !important;
 
-.feedback-section {
-  position: relative;
-  z-index: 2;
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
-  padding: 90px 18px 70px;
-  margin-top: 120vh;
-
- .feedback-form {
-  width: min(96vw, 980px);
-  height: min(88vh, 900px);
-  min-height: 650px;
-  border: 0;
-  border-radius: 14px;
-  background: white;
-}
-
-@media (max-width: 900px) {
-  .feedback-form {
-    width: 96vw;
-    height: 86vh;
-    min-height: 620px;
-  }
-}
-
-@media (max-width: 600px) {
-  .feedback-form {
-    width: 98vw;
-    height: 88vh;
-    min-height: 680px;
-    border-radius: 10px;
-  }
-}
-  .feedback-link {
-  color: white;
-  font-weight: 700;
+.credits-panel .credits-link,
+.credits-panel .credits-link:visited {
+  color: #fff !important;
   text-decoration: none;
 }
 
-.feedback-link:hover {
+.credits-panel .credits-link:hover,
+.credits-panel .credits-link:focus-visible {
+  color: #fff !important;
   text-decoration: underline;
 }
