@@ -300,8 +300,10 @@ svg {
   text-decoration: none;
 }
 
-.credits-panel .credits-link:hover,
-.credits-panel .credits-link:focus-visible {
+.credits-panel .credits-link,
+.credits-panel .credits-link:visited {
+  display: inline-block;
+  margin-left: 20px;
   color: #fff !important;
-  text-decoration: underline;
+  text-decoration: none;
 }
