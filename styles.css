@@ -303,13 +303,30 @@ svg {
   padding: 90px 18px 70px;
   margin-top: 120vh;
 
-  .feedback-form {
-  width: min(94vw, 760px);
-  height: min(82vh, 760px);
-  max-height: 760px;
+ .feedback-form {
+  width: min(96vw, 980px);
+  height: min(88vh, 900px);
+  min-height: 650px;
   border: 0;
   border-radius: 14px;
   background: white;
+}
+
+@media (max-width: 900px) {
+  .feedback-form {
+    width: 96vw;
+    height: 86vh;
+    min-height: 620px;
+  }
+}
+
+@media (max-width: 600px) {
+  .feedback-form {
+    width: 98vw;
+    height: 88vh;
+    min-height: 680px;
+    border-radius: 10px;
+  }
 }
   .feedback-link {
   color: white;
