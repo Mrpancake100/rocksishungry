@@ -152,7 +152,11 @@ svg {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-
+.social-icon-image {
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
 .handle {
   min-height: 42px;
   display: inline-flex;
