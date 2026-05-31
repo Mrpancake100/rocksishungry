@@ -10,10 +10,9 @@ const siteConfig = {
       label: "Instagram",
       icon: "instagram",
       url: "https://instagram.com/mrrockythedog"
-    },
    {
   label: "Steam",
-  icon: "steam",
+  image: "assets/steam-transparent-white.png",
   url: "https://steamcommunity.com/profiles/76561199503565317/"
 },
  {
