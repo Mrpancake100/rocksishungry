@@ -51,7 +51,9 @@ function applyConfig() {
     link.rel = "noreferrer";
     link.ariaLabel = item.label;
     link.title = item.label;
-    link.innerHTML = icon(item.icon);
+  link.innerHTML = item.image
+  ? `<img class="social-icon-image" src="${item.image}" alt="">`
+  : icon(item.icon);
     socials.append(link);
   });
 
